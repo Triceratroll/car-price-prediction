@@ -1,12 +1,18 @@
-## Demomento he hecho una demo de lo que se puede hacer
+## Car price Analysis, Visualization and Price Prediction
 
-1. Hay una parte de cargar el dataset y exploracion de datos 
+This project consists of the following parts:
 
-2. Y otra parte de prediccion utilizando tres modelos distintos
+1. Loading and cleansing of the data 
+
+2. Analyzing and exploring the data
+
+3. Data visualization
+
+4. Bulding a price prediction model
 
 
 El formato es un único fichero de jupyter notebook, esto es un tipo de fichero en el que se puede ejecutar código de python por celdas sin necesidad de ejecutar todo de nuevo cada vez.
 
 Para ejecutarlo la primera vez si que hay que ejecutar todo, o más bien en orden hasta la celda que quieras ejecutar
 
-Además de celdas de código se pueden añadir celdas de texto, no he añadido ninguna por ahora, para ir explicando lo que se va haciendo o comentar los resultados obtenidos
+Además de celdas de código se pueden añadir celdas de texto, para ir explicando lo que se va haciendo o comentar los resultados obtenidos
