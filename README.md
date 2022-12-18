@@ -16,3 +16,14 @@ El formato es un único fichero de jupyter notebook, esto es un tipo de fichero 
 Para ejecutarlo la primera vez si que hay que ejecutar todo, o más bien en orden hasta la celda que quieras ejecutar
 
 Además de celdas de código se pueden añadir celdas de texto, para ir explicando lo que se va haciendo o comentar los resultados obtenidos
+
+
+### Useful Links
+
+https://asder.pythonanywhere.com/
+
+https://datamarket.es/dashboards?slug=coches-de-segunda-mano
+
+https://www.kaggle.com/datasets/datamarket/venta-de-coches?datasetId=1136507
+
+https://www.kaggle.com/code/qusaybtoush1990/car-price-prediction-93#Analysis-Results-%F0%9F%91%8D
