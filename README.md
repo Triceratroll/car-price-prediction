@@ -27,3 +27,6 @@ https://datamarket.es/dashboards?slug=coches-de-segunda-mano
 https://www.kaggle.com/datasets/datamarket/venta-de-coches?datasetId=1136507
 
 https://www.kaggle.com/code/qusaybtoush1990/car-price-prediction-93#Analysis-Results-%F0%9F%91%8D
+
+https://www.coches.com/super-tasador/  
+
